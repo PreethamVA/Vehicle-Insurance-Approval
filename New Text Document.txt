@@ -1,4 +1,0 @@
-preethamgowdava
-bmCcxSzD1ivAgCv0
-
-mongodb+srv://preethamgowdava:bmCcxSzD1ivAgCv0@cluster0.raq1iwf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
