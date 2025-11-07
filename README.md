@@ -150,4 +150,3 @@ This MLOps project showcases an end-to-end pipeline for vehicle insurance data, 
 
 ---
 
-This README provides a structured walkthrough of the MLOps project, showcasing the end-to-end pipeline, cloud integration, CI/CD setup, and robust data handling capabilities.
